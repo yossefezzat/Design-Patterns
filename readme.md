@@ -16,14 +16,14 @@
 - Other software examples could be a single DB connection shared by multiple objects as creating a separate DB connection for every object is costly. Similarly, there can be a single configuration manager or error manager in an application that handles all problems instead of creating multiple managers.
 
 ## Types of Design Patterns
-* #### Creational Patterns
-- These patterns are all about class instantiation or object creation.
-- These patterns can be further categorized into Class-creational patterns and object-creational patterns.
-- While class-creation patterns use inheritance effectively in the instantiation process, object-creation patterns use delegation effectively to get the job done. 
-* #### Structural Patterns
-- These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
-* #### Behavioral Patterns
-- Behavioral patterns are about identifying common communication patterns between objects and realizing these patterns.
+* #### `Creational Patterns`
+  - These patterns are all about class instantiation or object creation.
+  - These patterns can be further categorized into Class-creational patterns and object-creational patterns.
+  - While class-creation patterns use inheritance effectively in the instantiation process, object-creation patterns use delegation effectively to get the job done. 
+* #### `Structural Patterns`
+  - These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
+* #### `Behavioral Patterns`
+  - Behavioral patterns are about identifying common communication patterns between objects and realizing these patterns.
 
 
 
